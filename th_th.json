@@ -1,0 +1,8 @@
+{
+  "entity.bossrealm.bone_warden": "ผู้พิทักษ์กระดูก",
+  "entity.bossrealm.infernal_reaver": "จอมมารเพลิงนรก",
+  "entity.bossrealm.void_sovereign": "จักรพรรดิแห่งความว่างเปล่า",
+  "item.bossrealm.bone_warden_spawn_egg": "ไข่เสก ผู้พิทักษ์กระดูก",
+  "item.bossrealm.infernal_reaver_spawn_egg": "ไข่เสก จอมมารเพลิงนรก",
+  "item.bossrealm.void_sovereign_spawn_egg": "ไข่เสก จักรพรรดิแห่งความว่างเปล่า"
+}
